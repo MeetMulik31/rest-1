@@ -1,3 +1,3 @@
-tabs: ["server.js"]
+tabs: ["server/server.js"]
 run-button: node $$file
 terminals: [""]
